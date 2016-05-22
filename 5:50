@@ -1,0 +1,5 @@
+if ($count > 0) {
+			echo "Good This Is The Form";
+		} else {
+			echo "Theres No Such ID";
+	}
